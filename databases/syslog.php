@@ -1,6 +1,30 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
 [
     {
+        "date": "2026-07-16 22:57:44",
+        "dictionaryKey": "content-deleted",
+        "notes": "api-test-tas-bort",
+        "idExecution": "6a5945c8bc8d8",
+        "method": "DELETE",
+        "username": "admin"
+    },
+    {
+        "date": "2026-07-16 22:57:02",
+        "dictionaryKey": "content-edited",
+        "notes": "api-test-tas-bort",
+        "idExecution": "6a59459e53db9",
+        "method": "PUT",
+        "username": "admin"
+    },
+    {
+        "date": "2026-07-16 22:55:54",
+        "dictionaryKey": "new-content-created",
+        "notes": "API-test",
+        "idExecution": "6a59455a5bd90",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
         "date": "2026-07-16 13:20:34",
         "dictionaryKey": "content-edited",
         "notes": "Kontakt[Autosave]",
@@ -55,29 +79,5 @@
         "idExecution": "6a57c7899f9a6",
         "method": "GET",
         "username": "admin"
-    },
-    {
-        "date": "2026-07-15 19:46:43",
-        "dictionaryKey": "plugin-activated",
-        "notes": "Sitemap",
-        "idExecution": "6a57c783c4c39",
-        "method": "GET",
-        "username": "admin"
-    },
-    {
-        "date": "2026-07-15 19:46:37",
-        "dictionaryKey": "plugin-activated",
-        "notes": "RSS Feed",
-        "idExecution": "6a57c77de9240",
-        "method": "GET",
-        "username": "admin"
-    },
-    {
-        "date": "2026-07-15 19:28:32",
-        "dictionaryKey": "access-denied",
-        "notes": "erik",
-        "idExecution": "6a57c3409b8ff",
-        "method": "GET",
-        "username": "erik"
     }
 ]

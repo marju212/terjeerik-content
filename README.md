@@ -40,4 +40,5 @@ Skriv sedan brödtexten i `pages/<slug>/index.txt`, committa och pusha.
 - **Efter lansering:** live-sajtens volym är sanningen. Erik skriver i admin på
   live; ett nattligt jobb speglar publicerat innehåll HIT. Inlägg som committas
   direkt hit når INTE live automatiskt — och skrivs över av nästa spegling.
-  Efter lansering: skapa inlägg via live-admin (eller Bludits API).
+  Efter lansering: skapa inlägg via live-admin eller Bludits API –
+  kodrepots `bin/posta-inlagg.php` postar via API mot både lokalt och live.

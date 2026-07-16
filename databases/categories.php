@@ -14,8 +14,8 @@
         "description": "",
         "template": "",
         "list": [
-            "friska-jorden-angar-oss-alla",
-            "fyra-vagar-till-ett-friskare-matsystem"
+            "fyra-vagar-till-ett-friskare-matsystem",
+            "friska-jorden-angar-oss-alla"
         ]
     },
     "landsbygd": {
@@ -39,9 +39,9 @@
         "description": "",
         "template": "",
         "list": [
+            "beskedet-som-forde-mig-till-fjallet",
             "varfor-jag-inte-slarvar",
-            "fran-lot-till-riksdagen",
-            "beskedet-som-forde-mig-till-fjallet"
+            "fran-lot-till-riksdagen"
         ]
     }
 }

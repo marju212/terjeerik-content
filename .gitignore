@@ -5,3 +5,4 @@ tmp/
 workspaces/
 uploads/thumbnails/
 .DS_Store
+databases/plugins/api/db.php

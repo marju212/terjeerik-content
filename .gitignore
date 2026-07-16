@@ -1,0 +1,7 @@
+# Detta är CONTENT-repots ignorelista (bl-content är en egen git-klon).
+# Hemligheter och cache lämnar aldrig maskinen/volymen.
+databases/users.php
+tmp/
+workspaces/
+uploads/thumbnails/
+.DS_Store

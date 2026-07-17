@@ -1,6 +1,6 @@
 # terjeerik-content
 
-Innehållet till **Anteckningar från Löt** (terjeerik.se) — en Bludit-blogg.
+Innehållet till **Bondförnuft** – Terje Eriks blogg (terjeerik.se) — en Bludit-blogg.
 Detta repo innehåller enbart *publicerat* innehåll: inläggstexter, sidor,
 databaser och uppladdade bilder. Aldrig `users.php` (konton/hemligheter).
 

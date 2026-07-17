@@ -32,7 +32,7 @@
     "dateFormat": "j F Y",
     "extremeFriendly": true,
     "autosaveInterval": 2,
-    "titleFormatHomepage": "{{site-slogan}} | {{site-title}}",
+    "titleFormatHomepage": "{{site-title}} \u2013 {{site-slogan}}",
     "titleFormatPages": "{{page-title}} | {{site-title}}",
     "titleFormatCategory": "{{category-name}} | {{site-title}}",
     "titleFormatTag": "{{tag-name}} | {{site-title}}",

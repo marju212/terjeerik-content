@@ -2,7 +2,7 @@
 {
     "title": "Terje Erik",
     "slogan": "Anteckningar fr\u00e5n L\u00f6t",
-    "description": "Terje Erik skriver fr\u00e5n L\u00f6t om mat, h\u00e4lsa, landsbygd och ansvar f\u00f6r n\u00e4sta generation.",
+    "description": "Terje Erik, riksdagskandidat f\u00f6r Socialdemokraterna i \u00d6sterg\u00f6tland, skriver fr\u00e5n g\u00e5rdsmejeriet i L\u00f6t om mat, h\u00e4lsa, landsbygd och beredskap.",
     "footer": "Fr\u00e5n L\u00f6t i \u00d6sterg\u00f6tland",
     "itemsPerPage": 4,
     "language": "sv_SE",
